@@ -19,7 +19,7 @@ sidebar:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: jenny-hag
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -150,8 +150,8 @@ projects:
 publications:
     title: Certifications
     intro: |
-      List of Awards and Certifications
-    certfications:
+      Awards &amp; Certifications
+    papers:
       - title: CMS for Developers Certification course
         link: "https://app-eu1.hubspot.com/academy/achievements/kgtcl98b/en/1/jenny-hag/hubspot-cms-for-developers"
         authors: Hubspot Academy
@@ -166,23 +166,15 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: HTML5 & CSS
+        level: 75%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: HubL
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
