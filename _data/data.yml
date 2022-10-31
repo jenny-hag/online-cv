@@ -99,14 +99,14 @@ experiences:
             - Bullet point
             - Bullet point
 projects:
-    title: Projects
+    title: Projects & Assignments
     intro: >
       In this section I list my side projects and open source libraries.
     assignments:
       - title: Hubl template from Hubspot CMS
         link: "https://github.com/jenny-hag/hubspot-cms-assignment"
         tagline: "A responsive website template designed to demonstrate proficient skills in Hubspot Academy"
-    assignments:
+    projects:
       - title: Timezone module for go lang
         link: "https://github.com/jenny-hag/go-tdd"
         tagline: "A project where I wanted to learn more about Test Driven Development in Go-lang"
