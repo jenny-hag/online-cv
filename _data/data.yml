@@ -53,8 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Learning in the flow of life \n
-      You can [download this free resume/CV template here]().
+      Learning in the flow of life. <br/>You can [download this free resume/CV template here]().
 education:
     title: Education
     info:
@@ -89,7 +88,9 @@ projects:
       - title: Timezone module for go lang
         link: "https://github.com/jenny-hag/go-tdd"
         tagline: "A project where I wanted to learn more about Test Driven Development in Go-lang"
-
+      - title: Database module for go lang
+        link: "https://github.com/jenny-hag/go-databases"
+        tagline: "In this project I wanted to explore working with databases in go-lang"
 publications:
     title: Certifications
     intro: |
