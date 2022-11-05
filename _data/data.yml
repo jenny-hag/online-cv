@@ -12,8 +12,8 @@ sidebar:
     avatar: jenny.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: jenny.hag65@gmail.com
+    #phone: 012 345 6789
     timezone: Stockholm/Central European Timezone
     citizenship:
     website: jennyhag.wordpress.com #do not add http://
@@ -53,51 +53,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Learning in the flow of life
+      Learning in the flow of life \n
       You can [download this free resume/CV template here]().
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: The restaurant line with a focus on pastry chefs
+        university: Anders Ljungstedt's high school
+        time: 1981 - 1983
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          A pastry chef works with making various products such as pastries,
+          cookies, cupcakes and cakes.
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Pastry chef
+        time: 1983 - 2020
+        company: Horns Café, Sweden
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As a pastry chef, I often manufacture products based on customer requests.
+          It could be, for example, wedding cakes specially designed pastries or a 
+          special kind of chocolate praline that the customer wants. In the profession,
+          it is good to be creative and have a feeling for the aesthetic as well as a 
+          good idea of how flavors and ingredients can be combined.
+            - The best thing about the job was getting to work very practically,
+            to learn by doing."
 projects:
     title: Projects & Assignments
     intro: >
