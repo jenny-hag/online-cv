@@ -91,20 +91,24 @@ projects:
       - title: Database module for go lang
         link: "https://github.com/jenny-hag/go-databases"
         tagline: "In this project I wanted to explore working with databases in go-lang"
+      - title: My Travel Journey
+        link: "https://github.com/jenny-hag/my-travel-journey"
+        tagline: "Read more about this project here: https://jennyhag.wordpress.com/category/my-learning-journey/projects-my-learning-journey/my-travel-journey/"
+       - 
 publications:
     title: Certifications
     intro: |
       Awards &amp; Certifications
     papers:
-      - title: CMS for Developers Certification course
+      - title: CMS for Developers Certification
         link: "https://app-eu1.hubspot.com/academy/achievements/kgtcl98b/en/1/jenny-hag/hubspot-cms-for-developers"
         authors: Hubspot Academy
         conference: Valid until Nov, 2023
 
-      - title: "In progress"
-        link: "#"
-        authors: ""
-        conference: ""
+      - title: "Google Ads Search Certification"
+        link: "https://skillshop.exceedlms.com/student/award/7toxRfT1DemwahskMenQPcRV"
+        authors: "Google"
+        conference: "Google recognises your mastery of the fundamentals of building and customising effective Google Search campaigns."
 
 skills:
     title: Skills &amp; Proficiency
